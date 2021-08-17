@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding:0;
+}
+body > header {
+    width: 1200px;
+    height: 100px;
+    background-color: blue;
+}
+main {
+    width: 1200px;
+    
+    background-color: black;
+}
+ main > section{
+    width: 800px;
+    height: 400px;
+    background-color: white;
+    float: left;
+     
+}
+  main > aside {
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    float: left;
+    margin: auto
+    
+    
+}
+body > footer{
+    width: 1200px;
+    height: 50px;
+    background-color: red;
+    clear: both;
+}
+body > header > div{
+    width: 300px;
+    height: 100px;
+    background-color:blue;
+    float: left;
+}
+body > header > nav{
+    width: 900px;
+    height: 100px;
+    background-color: rgb(53, 47, 47);
+    float: left;
+}
+body > footer > div{
+    width: 300px;
+    height: 40px;
+    background-color: brown;
+    float: left;
+    margin: 5px 50px 5px 50px;
+}
+ main > section > div{
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    margin: 175px 350px 175px 350px;
+}
+aside > div{
+    width: 50px;
+    height: 50px;
+    margin: 175px 175px 175px 175px;
+    background-color: violet;
+}
+ body > header > div{
+    width: 100px; 
+    height: 50px;
+    margin: 25px 150px 25px 150px;
+    background-color: pink;
+}
+
+
+
+

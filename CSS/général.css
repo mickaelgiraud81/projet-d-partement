@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(241, 229, 229);
+    margin: 0 10%; 
+}
+h1{
+    text-align: center;
+}
+h2{color: red;}
+span.important {
+    color: blue;
+}
+header > h1{
+    border: 10px solid  rgb(243, 109, 109)
+}
+section nav ol{
+    padding: 0 10%;
+    display: flex;
+    justify-content: space-between;
+}
+body li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+body a{
+    color: black;
+}
+body a:hover{
+    color: blue;
+    transition: 0.5s;
+}

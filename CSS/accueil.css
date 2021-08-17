@@ -1,0 +1,34 @@
+div img{
+    float: right;
+    margin-right: 50%;
+}
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.image img{
+    margin: 3%;
+    padding: 3%;
+    height: auto;
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+}
+
+    
+
+
+
+
+ 
+
+
+
+    
+    
+
+
+
+
+
+  

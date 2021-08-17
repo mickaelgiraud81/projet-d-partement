@@ -1,0 +1,21 @@
+.actu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+div{
+    padding: 3%;
+    margin: 3%;
+    width: 30%;
+    background-color: rgba(9, 128, 240, 0.5);
+}
+div img{
+    width: 100%;
+    height: auto;
+}
+h1{
+    color: rgb(56, 190, 243);
+}
+h3{
+    color: blue;
+}

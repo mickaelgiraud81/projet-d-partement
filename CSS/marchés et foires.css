@@ -1,0 +1,21 @@
+h1{
+    color: rgb(60, 245, 13);
+}
+.marché{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div{
+    padding: 3%;
+    margin: 3%;
+    width: 30%;
+    background-color: rgb(16, 243, 16)
+}
+div img{
+    width: 100%;
+    height: auto;
+}
+div h3{
+    color: red;
+}
